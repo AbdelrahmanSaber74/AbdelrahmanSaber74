@@ -65,14 +65,14 @@ var abdelrahman = new Developer
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdelrahmansaberz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmansaberz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanSaber74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanSaber74&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahmansaberz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdelrahmanSaber74&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,6 +93,6 @@ var abdelrahman = new Developer
 
 *"Clean code is not written by following a set of rules — it is written by a craftsman."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abdelrahmansaberz.abdelrahmansaberz)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbdelrahmanSaber74.AbdelrahmanSaber74)
 
 </div>
